@@ -2,11 +2,16 @@
 
 **MeTHanol: Modularized Thinking Language Models with Intermediate Layer Thinking, Decoding and Bootstrapping Reasoning**
 
-Ningyuan Xi, Xiaoyu Wang, Yetao Wu, Teng Chen, Qingqing Gu, and Luo Ji
+Ningyuan Xi<sup>1</sup>, Xiaoyu Wang<sup>2</sup>, Yetao Wu<sup>3</sup>, Teng Chen<sup>3</sup>, Qingqing Gu<sup>3</sup>, and Luo Ji<sup>3</sup>
+
+<sup>1</sup>Beihang University, Beijing, China<br>
+<sup>2</sup>Beijing Institute of Technology, Beijing, China<br>
+<sup>3</sup>Geely AI Lab, Beijing, China
 
 2025 International Joint Conference on Neural Networks (IJCNN)
 
 - Project page: https://bachozean.github.io/methanol-page/
+- Code: https://github.com/BachOzean/MeTHanol
 - Paper: https://ieeexplore.ieee.org/abstract/document/11229297
 - arXiv: https://arxiv.org/abs/2409.12059
 - DOI: https://doi.org/10.1109/IJCNN64981.2025.11229297
