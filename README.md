@@ -8,6 +8,7 @@ Ningyuan Xi, Xiaoyu Wang, Yetao Wu, Teng Chen, Qingqing Gu, and Luo Ji
 
 - Project page: https://bachozean.github.io/methanol-page/
 - Paper: https://ieeexplore.ieee.org/abstract/document/11229297
+- arXiv: https://arxiv.org/abs/2409.12059
 - DOI: https://doi.org/10.1109/IJCNN64981.2025.11229297
 
 ## Overview
